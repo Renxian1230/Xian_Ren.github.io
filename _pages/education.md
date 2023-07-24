@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-EDUCATION
 ======
 * Master of Arts | [Sichuan University](https://www.scu.edu.cn/)                                            
 Major in Linguistics and Applied Linguistics   
