@@ -1,5 +1,5 @@
 # main links links
-main:
+'''main:
   - title: "Publications"
     url: /publications/
 
@@ -19,4 +19,4 @@ main:
     url: /cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: /markdown/'''
