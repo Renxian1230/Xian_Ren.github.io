@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-======
+=======
 * Master of Arts | [Sichuan University](https://www.scu.edu.cn/)                                            
 Major in Linguistics and Applied Linguistics   
 GPA: XXX   
