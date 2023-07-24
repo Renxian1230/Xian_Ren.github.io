@@ -10,6 +10,6 @@ redirect_from:
 ---
 
 此处需要简单的对自己的介绍
-* Email  : 15560231962@163.com
+* Email  : Xian.Ren1109@gamil.com
 * Tel    : +86 15560231962
 * Address: No.38 Dacheng Road, Neixiang County, Nanyang City, Henan Province 474350
