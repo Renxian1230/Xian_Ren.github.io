@@ -11,9 +11,10 @@ main:
     
   - title: "WORK EXPERIENCE"
     url: /work_experience/
-        
-  - title: "ADDITIONAL INFORMATION"
-    url: /additional_information/
 
   - title: "VOLUNTARY ACTIVITY"
     url: /voluntary_activity/
+        
+  - title: "ADDITIONAL INFORMATION"
+    url: /additional_information/
+    
