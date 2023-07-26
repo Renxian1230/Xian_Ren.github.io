@@ -15,7 +15,7 @@ Core Modules: Topics in Linguistics (93), The Frontier of Chinese Language and L
 Major in Chinese Language and Literature                                                                                                
 GPA: 4.0                        
 Sep 2014-Jun 2018                                                                                                                       
-Core Modules: XXX
+Core Modules: Topics in Modern Chinese Literature (Good), Topics in Contemporary Chinese Literature (Good), Oriental Literature (Excellent), Topics on Modern Chinese Grammar (85), Literary Theory (94), Academic Writing (Excellent), Modern Chinese Literary Trend of Thought (Excellent). 
 
 Academic accomplishments/awards:                             
 *	Second-Class Academic Scholarship, Sichuan University, September 2022.                   
