@@ -7,7 +7,7 @@ author_profile: true
 
 =======       
 
-*	Multimodality: A Social Semiotic Approach to Contemporary Communication"  Gunther Kress and Theo van Leeuwen
-*	Multimodal Discourse Analysis Kay O'Halloran
+*	Multimodality: A Social Semiotic Approach to Contemporary Communication by Gunther Kress and Theo van Leeuwen
+*	Multimodal Discourse Analysis by Kay O'Halloran
 *	Research in Applied Linguistics Becoming a Discerning Consumer by Fred L. Perry, Jr.
  
